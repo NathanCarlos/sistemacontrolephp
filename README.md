@@ -1,0 +1,1 @@
+Este projeto foi desenvolvido para conclusão da matéria de técnica de programação para internet, do técnico em informática da etec, é um projeto simples com o foco em ajudar microempreendedores a cadastrar produtos, clientes e lançamentos.
